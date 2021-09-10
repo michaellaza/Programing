@@ -16,4 +16,4 @@ Task text.
 Source code of the program.
 The result of the program.
 Conclusions on the work.
-The task text has been uploaded to the repository. (Task.jpg) The report has been uploaded to the repository. (Laba1_Nesterov_R3137.docx)
+The task text has been uploaded to the repository. (Task.jpg) The report has been uploaded to the repository. (Laba1_Nesterov_R3137.docx).

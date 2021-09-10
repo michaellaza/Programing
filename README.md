@@ -1,6 +1,6 @@
  Laboratory work at ITMO University, programming. first year
 
-Laboratory work #1, variant 312621
+Laboratory work #1, variant 290432
 
 Write a Java program that performs the appropriate action options. The program must meet the following requirements:
 
